@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition of the citie of Bristoll for an accommodation of peace between His Majestie and the honourable the High Court of Parliament as it was presented to the Kings most excellent majestie at the court at Oxford, by foure of the aldermen of the said citie, on Saturday the seventh of Januarie : with His Majesties gracious answer therunto.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24465</idno><idno type="EEBO-CITATION">12152020</idno>
+  <idno type="VID">196965</idno>
+  <idno type="EEBO-PROQUEST">2240959885</idno>
+  
+            <idno type="STC">Wing H3490</idno>
+            <idno type="OCLC">12152020</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196965)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E84, no 31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition of the citie of Bristoll for an accommodation of peace between His Majestie and the honourable the High Court of Parliament as it was presented to the Kings most excellent majestie at the court at Oxford, by foure of the aldermen of the said citie, on Saturday the seventh of Januarie : with His Majesties gracious answer therunto.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Bristol (England) --  History --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196965:1"/>
+            <p>The humble PETITION Of the Citie OF BRISTOLL, FOR An Accommodation of Peace be<g ref="char:EOLhyphen"/>tween His Majestie, and the Ho<g ref="char:EOLhyphen"/>nourable the High Court of PARLIAMENT.</p>
+            <p>As it was presented to the Kings Most Ex<g ref="char:EOLhyphen"/>cellent Majestie, at the Court at OXFORD, by foure of the Aldermen of the said Citie; on Satur<g ref="char:EOLhyphen"/>day the seventh of Januarie, with His Majesties gracious Answer therunto.</p>
+            <p>Printed at Oxford by <hi>Leonard Lichfield.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196965:2"/>
+            <pb n="3" facs="tcp:196965:2"/>
+            <head>The Humble <hi>Petition</hi> of the Citie of <hi>Bristoll</hi> to his MAjESTY for an Accom<g ref="char:EOLhyphen"/>modation of Peace betwixt himselfe and PARLIAMENT.</head>
+            <opener>
+               <salute>May it please your sacred Majesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>he lingering calamities of this present <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having with its hideous and tumultuous noyse awakened the sleeping tongues of your Majesties loyal subj cts especially those of the greatest and wealthiest Citie of your Dominions, the honourable the City of <hi>London,</hi> to invoke your Royall assistance and suffrage for the esta<g ref="char:EOLhyphen"/>blishing an unanimous tranquillity throughout this Realme, by which example excited (though we should have willing<g ref="char:EOLhyphen"/>ly been the formost suitors for the effecting so holy and just a purpose) wee the Inhabitants of your Majesties City of <hi>Bristoll,</hi> uninferiour (in loyaltie to your sacred Person) to no City in this Kingdome, and equall to any, except <hi>London,</hi> in this the Realme of <hi>England,</hi> for importance of trade, and
+<pb n="4" facs="tcp:196965:3"/> number of Inhabitants, esteemed our selves in our duty to God, and abounden allegeance to your Majesty injoyned, not to be the last who should present your Highnesse with the humble intimation of our grievances and zealous desires for the good of your Majestie, and the peace of your Domi<g ref="char:EOLhyphen"/>nions. May it therefore please your sacred clemency and goodnesse, seriously to ponder with what superaboundant felicity and daily blessings of the Almighty, all your Majesties good subjects, and wee the Inhabitants of this City have been filled full even with plenty, during the peacefull raign of your Royall Father, of blessed and famous memory, nay, during divers yeeres of your Majesties raigne (which God long continue over us) and then but with the eyes of your Royall clemency and pity be pleased to take a strict sur<g ref="char:EOLhyphen"/>vey of the face of things in this your Kingdome of <hi>England</hi> at this instant, and surely your Majesty will finde it as full of horror and wrath as any object which can incounter hu<g ref="char:EOLhyphen"/>mane eye-sight, appearing meerly the Ghost of that <hi>England</hi> which it was so lately; in stead of the continuall and gainfull trade and commerce which all the maritime towns, in espe<g ref="char:EOLhyphen"/>ciall this City of <hi>Bristoll</hi> had into forraigne parts; our Ships lie now rotting in the Harbor without any Mariners or fraught, or trade into forraigne parts, by reason of our home-bred distractions, being growne so contemptible and despised there, that our credits are of no value, wee being (through the misfortune of our nation) reputed abroad as men meer<g ref="char:EOLhyphen"/>ly undone at home; and what detriment this discontinuance of traffique with forraigne nations may beget and bring forth, both to your Majesties particular revenue, by decay of the emolument of customes, and to the Subject in gene<g ref="char:EOLhyphen"/>rall by the want of exportment and importment of commo<g ref="char:EOLhyphen"/>dities, cannot to your sacred wisdome be unknowne: but this as the least of all the ills which your Majesty may behold incumbring and oppressing us and all your Subjects; no man injoyes his life, his wife, children, family or estate in safety this day, producing effects of ruine in those places,
+<pb n="5" facs="tcp:196965:3"/> and on those persons who in the foregoing night were rich and happy; so that unspeakeable is our misery, unutterable our grievances, fathers being ingaged enemies against sons, and sons against fathers; every good Towne and City, as this your City of <hi>Bristoll,</hi> being inforced to their great and infinite expence, to maintaine garrisons and courts of guards for their security, which takes away all sense of our formmer happinesse, our sleeps being disturbed by the surley noyse of Drums, we overwhelmed with an increa<g ref="char:EOLhyphen"/>sing perpetuity of cares and troubles, such as no time nor history hath scarce mentioned in this Kingdome, neither in the Barons nor any other civill warres: Your Ma<g ref="char:EOLhyphen"/>jesty being, at it were, divorced from those husbands of the Common-wealth, the honourable the high Court of Parliament who have made so frequent and so reall ex<g ref="char:EOLhyphen"/>presses of their duty and zeale to the service and advance<g ref="char:EOLhyphen"/>ment of your Majesties affaires, onely desiring that your gracious Majesty would please to desert and give off the councells of such notorious Malignants, as for their owne sinister and unworthy ends aime at the ruine of the Com<g ref="char:EOLhyphen"/>monwealth, and destruction of the essences of Parliament, to which are conterminated and confined the liberty and right of the <hi>English</hi> Subject. Furthermore, may it please to take into consideration of your sacred Majesty, what strange and uncouth distractions that have lately broken forth into the Church of <hi>England,</hi> sometimes the glory of all the reformed Churches, the too much power of the Prelacie in forcing new Canons and unheard of do<g ref="char:EOLhyphen"/>ctrines upon us, such as have corrosives to the hearts, and goads in the sides of most of the religious and well-af<g ref="char:EOLhyphen"/>fected persons to Church and Commonwealth in these your Majsties Dominions, which have been the immediate and efficient causes of the many dissentions and troubles now raigning in this Realme, no oppression being so forcible or oppressive to mens consciences, as that which is intruded on them concerning their Beliefe and the worship of God.</p>
+            <pb n="6" facs="tcp:196965:4"/>
+            <p>In consideration of all which troubles and unhappy dis<g ref="char:EOLhyphen"/>sentions, wee your Majesties most faithfull and humble Subjects the Inhabitants of your good and loyall City of <hi>Bristoll,</hi> in all duty to your sacred Crowne and Dignity, implore and beseech, that taking these grievances afore<g ref="char:EOLhyphen"/>said into your royall thoughts, you would vouchsafe us the speediest meanes that may conclude the differences both in Church and Common-wealth, to devise some speedy way for a reconciliation and perfect Accommoda<g ref="char:EOLhyphen"/>tion of peace betweene your gracious selfe and your high Court of Parliament, which hath alwayes been the hap<g ref="char:EOLhyphen"/>piest Councell of your famous Ancestors, and still prompt in all obedience to serve the intentions and purposes of your Majesty, and so to rectifie all abuses in the Church, and finish all the bleeding dissentions of the Kingdome, that peace and happinesse may flourish in the rest of your Majesties raigne, and the blessings of peace fall upon us your people, and we your humble Petitioners and obedi<g ref="char:EOLhyphen"/>ent Subjects, shall as wee are ingaged in all duty, ever pray for your gracious Majesties increase of temporall felicity in this life, and eternall happinesse in the world to come.</p>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:196965:4"/>
+            <head>His Majesties gracious Answer to the Petition of the Citie of <hi>Bristoll,</hi> delivered to them by my Lord <hi>Faulkland,</hi> Principall Se<g ref="char:EOLhyphen"/>cretarie of State.</head>
+            <p>HIs Majestie hath received your Petition, and is ve<g ref="char:EOLhyphen"/>rie well pleased with this early demonstration of your dutie, and accepts in verie good part your heartie ad<g ref="char:EOLhyphen"/>vices to Him; which His Majestie (as far forth, as for the present can be correspondent to his occasions) is resolved to hearken unto, and put in practice. The many distractions that are now immergent in these his Majesties Dominions, He commanded me to let you know, that He hath as tender a sense and compassion of the afflictions of his good Sub<g ref="char:EOLhyphen"/>jects, as they possibly can have themselves, that Hee hath neither fought the continuation of these dissentions, nor will ever cherish them; but use and employ his best possi<g ref="char:EOLhyphen"/>bilitie and endevours, for the establishing and reconsuming peace and quietnesse among all His Majesties Subjects, that everie man may follow his vocation to his best profit, that traffique and commerce with forraine Nations may be con<g ref="char:EOLhyphen"/>tinued and promoted, and all the fruits of peace may bee multiplyed amongst you.</p>
+            <p>For the abuses and innovations that have lately happened in the Church of England (to the grievance of many mens consciences) His Majestie declares, that as Hee is ignorant of the said innovations, so Hee will be alwayes ready to ex<g ref="char:EOLhyphen"/>purge and take away all such innovations, being resolute, as
+<pb n="8" facs="tcp:196965:5"/> He is <hi>Defender of the Faith,</hi> to propugne, and maintaine no other religion, but the Orthodox established Doctrine of the Church of England, which hath so flourished under the reignes of his glorious Predecessours. That for the insolen<g ref="char:EOLhyphen"/>cie and pride of the Prelacie, His Royall Majestie never in<g ref="char:EOLhyphen"/>tended to patronize, or protect the vices of the men; but what their deserts are, or have been, according to the nature of their crimes, they shall suffer the justice of the Law, of which Himselfe being the Fountaine and Protectour, will never be either the Diminisher or Infringer. For his diffe<g ref="char:EOLhyphen"/>rence betweene Himselfe and His High Court of Parlia<g ref="char:EOLhyphen"/>ment, His Majestie protests with all integririe, that there is nothing in the world more coveted by Him, than a speedy and faire attonement with that Honourable Assembly: nor any thing that has or does more afflict, or disturb his Royall temper, than that He hath been enforced to absent Himselfe so long from their Association and Councels, to which Hee alwayes hath given much honour, and esteemed them as the principall and securest advice, both for His owne good, and the benefit of His People. And therefore, as a finall resolu<g ref="char:EOLhyphen"/>tion and determinate answer. His Majestie by me declares to you, that He will ever make it his uttermost endevour, to preserve the liberties and fortunes of all His good Subjects; and that He will bestow as provident and pious an eye upon your Citie of Bristoll, as upon any Citie or Towne in this Kingdome. And for a reconciliation with His High Court of Parliamet, His Majestie gives you His Royall thanks, for that loyall and faithfull advice, which His Highnesse re<g ref="char:EOLhyphen"/>solves to put in practice, with all the celeritie his occasions will permit, not doubting but ere many dayes passe, to re<g ref="char:EOLhyphen"/>duce His affaires to that conformable condition, as to finish all jars and contentions betwixt Himselfe and Parliament, by an happie union, that you and all his good Subjects may have their desires, by the establishment of a constant peace in these His Dominions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
